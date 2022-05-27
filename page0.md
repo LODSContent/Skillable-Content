@@ -3,11 +3,14 @@
 :::
 # !INSTRUCTIONS[][challenge-title]
 
-## Your challenge
+## Your assignment
 
 !INSTRUCTIONS[][overview]
 
-## Navigating the Lab
+
+You will begin by taking a short pre-assessment quiz. Based on your results, you can choose to complete this exercise in ^[Guided][guided] or ^[Advanced][advanced] mode.
+
+## Navigating the lab
 
 ::: labhelp
 
@@ -25,3 +28,6 @@
 
 :::
 
+>[guided]: Guided challenges ...
+
+>[advanced]: Advanced ...
