@@ -1,0 +1,1 @@
+**Desired difficulty**: @lab.DropDownList(difficulty)[Guided,Advanced,Instructor]
