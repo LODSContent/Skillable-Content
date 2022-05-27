@@ -5,4 +5,8 @@
 ## Additional resources
 !INSTRUCTIONS[][additionalResources]
 
-!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V2-Framework/master/Templates/Feedback.md)
+## Your feedback is important!
+
+As you end your Challenge Lab, please take a few minutes to
+complete the short survey that will appear in the next window.
+
