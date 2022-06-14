@@ -8,7 +8,7 @@
 !INSTRUCTIONS[][overview]
 
 
-You will begin by taking a short pre-assessment quiz. Based on your results, you can choose to complete this exercise in ^[Guided][guided] or ^[Advanced][advanced] mode.
+You will begin by taking a short pre-assessment quiz. Based on your results, you will receive a recommendation to complete this exercise in ^[Guided][guided] or ^[Advanced][advanced] mode. However, you will have the ability to toggle between modes as you choose.
 
 ## Navigating the lab
 
