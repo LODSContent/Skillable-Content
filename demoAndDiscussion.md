@@ -4,4 +4,5 @@
 
 You will now discuss key takeaways from the hands-on learning lab.
 
+![Discussion](https://github.com/LODSContent/SkillablePlus-Content/raw/main/Discussion.png)
 <!-- image -->
