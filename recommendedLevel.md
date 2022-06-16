@@ -1,7 +1,7 @@
-## Choose your level of difficulty
+## Choose your mode
 
 @lab.Variable(recommendation)
 
-Don't worry; you can change between the Guided and Advanced levels at any time during the lab. 
-
-What level do you want to start out at? @lab.DropDownList(difficulty)[Guided,Advanced]
+<span class="warn-icon">
+Don't worry; you can change between Guided and Advanced modes at any time during the lab. 
+</span>

@@ -1,7 +1,7 @@
-# Demonstration and discussion
+# Discussion
 
-## You have completed the hands-on excercises for !INSTRUCTIONS[][challenge-title]
+## You have completed the hands-on learning lab for !INSTRUCTIONS[][challenge-title]
 
-The instructor will demonstrate the stuff.
+You will now discuss key takeaways from the hands-on learning lab.
 
-You will then discuss stuff.
+<!-- image -->

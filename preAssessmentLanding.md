@@ -1,8 +1,11 @@
-# !INSTRUCTIONS[][prelandpageTitle]
+# Hands-on learning lab: !INSTRUCTIONS[][prelandpageTitle]
+
+You have finished the pre-assessment.
 
 
-Congratulations! You finished the pre-assessment.
+Your instructor will now cover the core concepts of this module. 
 
-Your instructor will now cover the core concepts of this module. If you want to get a start on the hands-on lab, please feel free to.
+<!-- insert new image -->
+
 
 ![image](https://lodmanuals.blob.core.windows.net/lms/CommunityCourses/PI2.PNG)
