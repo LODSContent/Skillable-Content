@@ -1,4 +1,4 @@
-## Hands-on learning lab !INSTRUCTIONS[][challenge-title]
+## Hands-on learning lab: !INSTRUCTIONS[][challenge-title]
 
 You have finished the pre-assessment.
 
