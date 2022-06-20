@@ -1,1 +1,1 @@
-**Current mode**: @lab.DropDownList(difficulty)[Guided,Advanced,Instructor]
+**Current mode**: @lab.DropDownList(difficulty)[Guided,Advanced]
