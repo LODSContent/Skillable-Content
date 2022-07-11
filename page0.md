@@ -1,7 +1,7 @@
-![image](https://github.com/LODSContent/SkillablePlus-Content/raw/main/Skillable-logo_color-512px.png)
+<!--- ![image](https://github.com/LODSContent/SkillablePlus-Content/raw/main/Skillable-logo_color-512px.png) -->
 
-<!--- ::: logo-guided
-::: -->
+::: logo-guided
+:::
 # !INSTRUCTIONS[][challenge-title]
 
 ## Your assignment
