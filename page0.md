@@ -1,4 +1,4 @@
-![image](https://github.com/LODSContent/SkillablePlus-Content/raw/main/handsonlab.png)
+![image](https://github.com/LODSContent/SkillablePlus-Content/raw/main/Skillable-logo_color-512px.png)
 
 <!--- ::: logo-guided
 ::: -->
