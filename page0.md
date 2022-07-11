@@ -1,6 +1,7 @@
+![image](https://github.com/LODSContent/SkillablePlus-Content/raw/main/handsonlab.png)
 
-::: logo-guided
-:::
+<!--- ::: logo-guided
+::: -->
 # !INSTRUCTIONS[][challenge-title]
 
 ## Your assignment
