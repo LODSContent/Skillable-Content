@@ -1,5 +1,5 @@
 
-::: logo-guided
+::: logo-adaptive
 :::
 # !INSTRUCTIONS[][challenge-title]
 
