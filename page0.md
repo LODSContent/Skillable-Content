@@ -1,9 +1,13 @@
-
 ::: logo-guided
 :::
+
 # !INSTRUCTIONS[][challenge-title]
 
-## Your assignment
+:::overviewbutton
+Challenge Overview
+:::
+
+## Understand the scenario
 
 !INSTRUCTIONS[][overview]
 
