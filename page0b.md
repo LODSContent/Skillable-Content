@@ -1,12 +1,15 @@
-
 ::: logo-adaptive
 :::
+
 # !INSTRUCTIONS[][challenge-title]
 
-## Your assignment
+:::overviewbutton
+Challenge Overview
+:::
+
+## Understand the scenario
 
 !INSTRUCTIONS[][overview]
-
 
 ## Navigating the lab
 
